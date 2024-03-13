@@ -1,47 +1,63 @@
-# Day 01: Introduction to Data Core Concepts :baby:
+# Day 01: Introduction to Data Core Concepts
 
-## Overview
-**Goals:** 
-- Guide new team members through understanding the broad data landscape and core data concepts.
-- Facilitate discussions and provide insights to deepen their understanding of each concept.
+**Goals:**
 
-:warning: **Note:**
-- Your role as a mentor is crucial in helping new members navigate through the extensive data landscape.
-- Encourage them to ask questions and engage in discussions to foster a comprehensive understanding of each concept.
-- Remember, a strong foundation in these core concepts is essential for their growth and effective contribution to the team.
+* Guide new team members through core data concepts.
+* Foster discussions and provide insights for deeper understanding.
+* Cultivate a data-driven mindset and appreciate the value of data.
+* Equip newbies with a strong foundation for their data ops journey.
+* **Mentor Mission:** Spark their interest and passion for big data!  :heart: :computer: :heart:
 
-## Chapter 1. Understanding the Data Landscape
+**Note:**
 
-Lead a session to explore the following concepts. Provide real-world examples for each and engage in discussions with your mentees to deepen their understanding.
+* Encourage active participation and open discussions to solidify their grasp of concepts.
+* Remember, a solid foundation is crucial for their growth and future contributions.
 
-1. **5V's of Big Data**
-2. **Structured vs Unstructured Data vs Semi-Structured Data**
-3. **ETL vs ELT**
-4. **NoSQL Databases vs SQL Databases**
-5. **OLAP vs OLTP**
-6. **Batch Processing vs Stream Processing**
-7. **Data Warehouse vs Data Lake**
-8. **Distributed File Systems**
-9. **Data Governance**
-10. **Data Visualization**
-11. **Data Analytics**
-12. **Data Ownership**
-13. **Data Quality**
-14. **CDC**
-15. **Data Catalog**
-16. **Data Lifecycle Management**
-17. **Data Lineage**
-18. **Store First**
-19. **Data Serialization**
-20. **Data Compression**
-21. **Scale out vs Scale up**
-22. **High Availability**
-23. **Master slave vs Masterless**
-24. **Apache Data Stack**
+## Session Structure:
 
-**Total Time:** 4 hours
+**1. Introduction:**
 
-## Outcome
-By the end of Day 1, new team members should have a solid understanding of key data concepts, setting a strong foundation for their journey in the data landscape. As a mentor, your insights and interactive discussions are instrumental in ensuring they grasp these concepts effectively and are well-prepared to apply this knowledge in their roles.
+* Welcome and introductions.
+* Briefly discuss the importance of data in today's world.
+* Set expectations for the day and the "Challenge Accepted" activity (optional).
 
-**Your guidance is invaluable in helping the new team members navigate the vast data landscape and instilling a deep appreciation for the core concepts that drive our data operations.**
+**2. Understanding the Data Landscape:**
+
+* **Interactive Discussions:** Guide newbies through key concepts with real-world examples:
+    * **5V's of Big Data**
+    * **Structured vs. Unstructured vs. Semi-Structured Data**
+    * **ETL vs. ELT**
+    * **NoSQL vs. SQL Databases**
+    * **OLAP vs. OLTP**
+    * **Batch Processing vs. Stream Processing**
+    * **Data Warehouse vs. Data Lake**
+    * **Distributed File Systems**
+    * **Data Governance**
+    * **Data Visualization**
+    * **Data Analytics**
+
+**3. Wrapping Up:**
+
+* **Reflection:** Encourage newbies to write down key takeaways and questions.
+* **Mentor Discussion:** Address their questions and ensure understanding.
+* **Real-World Applications:** Discuss how these concepts apply in your team.
+* **Q&A Session:** Open forum for any lingering inquiries.
+
+**4. Action Items:**
+
+* List areas for further exploration based on their interests.
+* Recommend resources for deeper learning (articles, videos, tutorials).
+
+**5. "Challenge Accepted" Activity (Optional):**
+
+* **Concept Recall:** Encourage newbies to write down and define each concept covered.
+* **Self-Evaluation:** Briefly review these definitions at the end of each chapter, identifying relevant concepts.
+* **Benefits:** Enhance concept retention and facilitate real-world application understanding.
+
+**Additional Resources:**
+
+* The 5 V's of Big Data by IBM: [https://www.ibmbigdatahub.com/blog/understanding-big-data-5-vs](https://www.ibmbigdatahub.com/blog/understanding-big-data-5-vs)
+* Database vs Data Warehouse vs Data Lake | What is the Difference?: [https://www.youtube.com/watch?v=-bSkREem8dM](https://www.youtube.com/watch?v=-bSkREem8dM)
+* NoSQL vs SQL Databases: [https://www.youtube.com/watch?v=Pf-9pjJK1e0](https://www.youtube.com/watch?v=Pf-9pjJK1e0)
+* OLAP vs OLTP: [https://www.youtube.com/watch?v=iw-5kFzIdgY](https://www.youtube.com/watch?v=iw-5kFzIdgY)
+

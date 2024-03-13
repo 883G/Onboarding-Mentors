@@ -1,43 +1,34 @@
 # Day 00 - Welcome & Introduction :dart:
 
 ## Overview
+
 **Goals:**
-- Provide a supportive and informative welcome to the new members of the 883 Group.
-- Ensure new team members understand the 883 Group's vision, mission, and strategic objectives.
-- Facilitate introductions and interactions between new team members, existing team members, and mentors.
 
-:warning: **Note:**
-- As a mentor, your role is pivotal in making the newcomers feel welcomed and guided through their initial journey at the 883 Group.
-- Be approachable and open to questions, ensuring the new team members feel comfortable and well-informed.
-- Remember the significance of first impressions and aim to create a positive and lasting one!
+* Provide a supportive and informative welcome to the new members of the 883 Group.
+* Ensure new team members understand the 883 Group's vision, mission, and strategic objectives.
+* Facilitate introductions and interactions between new team members, existing team members, and mentors.
 
-**Total Time:** 4 hours
+## Notes for Mentors
+
+:warning: **Key Points:**
+
+* Your role is pivotal in making the newbies feel welcomed and guided through their initial journey.
+* Be approachable and open to questions, ensuring the new team members feel comfortable.
+* Remember the significance of first impressions and aim to create a positive and lasting one!
+* In the first day there is a lot of paper work and administrative task, so be focused to don't miss any important information!!
 
 ## Introduction to the 883 Group
-
-- **Host a Meet and Greet Session (1 hour):**
-  - Lead the welcoming session and introduce the new team members to their colleagues.
-  - Share your experience and journey within the 883 Group to inspire and motivate.
-
-- **Conduct an Orientation Session (1 hour):**
-  - Walk the new team members through the history and culture of the 883 Group.
-  - Explain the structure of the team, outline the ongoing projects, and highlight how the newcomers will contribute.
+* Lead the welcoming session, introduce everyone, and share your experience to inspire.
+* Explain the team structure and culture of the 883 Group, outlining how the newbies will contribute.
 
 ## Guiding New Team Members through the Onboarding Process
+* Discuss the onboarding schedule and be prepared to answer practical questions about tools and systems.
+* Elaborate on the 883 Group's strategic objectives and share examples of how a new hire's role contributes to the bigger picture. 
 
-- **Provide an Onboarding Overview (1 hour):**
-  - Discuss the onboarding schedule, set clear expectations, and explain the journey ahead.
-  - Introduce the tools, systems, and resources the new team members will be using.
 
-- **Detail the 883 Group's Vision and Mission (1 hour):**
-  - Elaborate on the 883 Group's strategic objectives and core values.
-  - Discuss how the new team member's role is pivotal to achieving the group's goals and how their contributions matter.
+## Additional Mentor Tips
 
-## Wrapping Up the Day
+* **Active Listener:**  Pay attention during sessions, offering additional explanations afterwards if needed.
+* **Introductions:**  Facilitate informal introductions to other team members throughout the day.
 
-- **Facilitate a Closing Q&A and Networking Session (30 minutes):**
-  - Encourage new team members to ask questions about the group, their role, or the onboarding process.
-  - Lead a casual networking session to foster connections and conclude the first day positively.
-  - Coordinate a group visit to the dining room for a shared meal, enhancing team bonding.
-
-**As a mentor, your guidance is key to integrating new team members into the 883 Group culture. Let's make this journey insightful and welcoming together!**
+**Let's make this first day insightful and welcoming for our new team members!** 
