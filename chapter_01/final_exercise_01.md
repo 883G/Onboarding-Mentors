@@ -85,6 +85,7 @@ As a mentor, your goal is to ensure that by the end of this session, each team m
 10. **Q:** Can you explain rack awareness in HDFS?  
     **A:** Rack awareness is the concept used in HDFS to improve network traffic while reading/writing data and also to improve the fault tolerance. The NameNode chooses DataNodes that are on different racks for data replication to ensure that even if an entire rack fails, the data is safe.
 
+:warning: **The MapReduce-YARN-Oozie chapter should take 2 days max**
 ### Chapter 3: MapReduce Programming Model
 
 11. **Q:** What is MapReduce?  
